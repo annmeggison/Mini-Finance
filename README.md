@@ -32,6 +32,7 @@ This repository demonstrates how to create, track, and manage a project using ve
 This repository was created as part of the **Week 2 Assignment (Git & GitHub Practice)** to simulate a real project workflow.
 ```
 
----
+This PR adds a new section to the README explaining the project's purpose in the context of this GitHub assignment.
+
 
 
